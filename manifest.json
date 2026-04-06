@@ -1,0 +1,27 @@
+{
+  "name": "FORGE — Lean Bulk",
+  "short_name": "FORGE",
+  "description": "Your personal AI fitness coach for lean bulk",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b0b0b",
+  "theme_color": "#0b0b0b",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='110' fill='%230b0b0b'/><rect x='60' y='220' width='392' height='72' rx='36' fill='%23e50914'/><rect x='60' y='220' width='392' height='72' rx='36' fill='%23e50914'/><rect x='40' y='240' width='80' height='32' rx='16' fill='%23ff2e2e'/><rect x='392' y='240' width='80' height='32' rx='16' fill='%23ff2e2e'/><rect x='220' y='120' width='72' height='272' rx='36' fill='%23e50914'/></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' rx='42' fill='%230b0b0b'/><rect x='22' y='82' width='148' height='28' rx='14' fill='%23e50914'/><rect x='14' y='90' width='30' height='12' rx='6' fill='%23ff2e2e'/><rect x='148' y='90' width='30' height='12' rx='6' fill='%23ff2e2e'/><rect x='82' y='44' width='28' height='104' rx='14' fill='%23e50914'/></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["health", "fitness", "lifestyle"],
+  "screenshots": [],
+  "prefer_related_applications": false
+}
